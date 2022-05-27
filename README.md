@@ -11,8 +11,12 @@
 - Dragon Bones.
 - Photoshop.
 
-> WEB and Mobile APPs:
-- Javascript (React and React-Native).
+> Programing Languages:
+- Java (web/mobile)
+- python
+- C#
+- C++
+- Javascript (Node.js, MongoDB, React and React-Native)
 
 <!---
 arycaramez/arycaramez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
