@@ -5,7 +5,8 @@
 - 📫 How to reach me agpc.dev@gmail.com (only for work, please be respectfull).
 
 > Softwares:
-- Unity Engine, Construct 2, Unreal Engine 4 (in training).
+- Unreal Engine 4 and 5.
+- Unity Engine, Construct 2.
 - Blender 3D (Modeling, retopology, texturing and animation for games).
 - Substance Painter 2.
 - Dragon Bones.
