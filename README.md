@@ -9,11 +9,11 @@
 - Google Tag Manager.
 - Google Analytcs.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
+<a href="https://github.com/arycaramez/github-readme-stats">
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=truee&theme=tokyonight&bg_color=193549&layout=compact&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arycaramez&layout=compact&locale=pt-BR">
+<a href="https://github.com/arycaramez/convoychat">
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arycaramez&e&theme=tokyonight&bg_color=193549&layout=compact&locale=pt-BR">
 </a>
 
 
