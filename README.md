@@ -2,7 +2,7 @@
 - 👀 Tenho interesse no desenvolvimento de jogos e Web Analytcs.
 - 🌱 Atualmente trabalho com desenvolvimento de jogos.
 - 💞️ Procurando colaborar no desenvolvimento de jogos, web e mobile.
-- 📫 Como entrar em contato comigo agpc.dev@gmail.com (apenas para contato profissional, por favor, seja respeitoso).
+- 📫 Como entrar em contato comigo agpc.dev@gmail.com (contato profissional).
 
 > Web Analytcs:
 - Google Tag Manager.
