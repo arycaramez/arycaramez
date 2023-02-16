@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&theme=tokyonight&bg_color=193549)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
 - 👋 Olá, meu nome é @arycaramez
 - 👀 Tenho interesse no desenvolvimento de jogos e Web Analytcs.
 - 🌱 Atualmente trabalho com desenvolvimento de jogos.
@@ -25,5 +22,9 @@
 - C#
 - C++
 - Javascript (Node.js, MongoDB, React and React-Native)
--->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&theme=tokyonight&bg_color=193549)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
