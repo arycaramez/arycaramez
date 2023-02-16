@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arycaramez
 - 👀 I’m interested in game development and automation systems.
-- 🌱 I’m currently work with game development and web/mobile aplications.
-- 💞️ I’m looking to collaborate on game, web and mobile development.
+- 🌱 Currently work with game development and web/mobile aplications.
+- 💞️ Looking to collaborate on game, web and mobile development.
 - 📫 How to reach me agpc.dev@gmail.com (only for work, please be respectfull).
 
 > Softwares:
