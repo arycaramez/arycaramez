@@ -23,8 +23,8 @@
 - C++
 - Javascript (Node.js, MongoDB, React and React-Native)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&theme=tokyonight&bg_color=193549&locale=pt-BR&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&theme=tokyonight&bg_color=193549)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=WeaponizationSystemReforged&show_owner=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
