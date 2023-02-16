@@ -1,11 +1,11 @@
 
-## Olá, eu sou o Ary Guilherme, analista web e desenvolvedor de jogos.
+# Ary Guilherme Pires Caramez
 
 - Graduado em Sistemas de Informação e Pós-Graduação em Desenvolvimento de Jogos Digitais
 - Atualmente trabalho com o desenvolvimento de jogos (com 6 anos de experiência) e Web Analytcs (em treinamento).
 - Procurando colaborar no desenvolvimento de jogos ou elaborar soluções em Web Analytcs.
 
-> Web Analytcs:
+## Web Analytcs:
 - Google Tag Manager.
 - Google Analytcs.
 
