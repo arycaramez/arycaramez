@@ -30,4 +30,4 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=WeaponizationSystemReforged&show_owner=false&layout=compact&theme=tokyonight&bg_color=193549&locale=pt-BR)](https://github.com/arycaramez/WeaponizationSystemReforged)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
