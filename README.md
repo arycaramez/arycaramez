@@ -10,10 +10,10 @@
 - Google Analytcs.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arycaramez&layout=compact&locale=pt-BR">
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arycaramez&layout=compact&locale=pt-BR">
 </a>
 
 
