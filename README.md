@@ -10,7 +10,7 @@
 - Google Analytcs.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&locale=pt-BR&card_width=500&include_all_commits=true&hide_title=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arycaramez&layout=compact&locale=pt-BR">
 </div>
 
