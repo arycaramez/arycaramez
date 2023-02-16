@@ -1,3 +1,4 @@
+<!--
 - 👋 Olá, meu nome é @arycaramez
 - 👀 Tenho interesse no desenvolvimento de jogos e Web Analytcs.
 - 🌱 Atualmente trabalho com desenvolvimento de jogos.
@@ -22,3 +23,5 @@
 - C#
 - C++
 - Javascript (Node.js, MongoDB, React and React-Native)
+-->
+
