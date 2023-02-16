@@ -9,12 +9,10 @@
 - Google Tag Manager.
 - Google Analytcs.
 
-<a href="https://github.com/arycaramez/github-readme-stats">
+<div>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&theme=transparent&count_private=truee&layout=compact&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
-</a>
-<a href="https://github.com/arycaramez/convoychat">
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arycaramez&e&layout=compact&theme=transparent&locale=pt-BR">
-</a>
+</div>
 
 
 <div style="display: inline_block"><br>
