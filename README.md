@@ -42,6 +42,15 @@
  <a href="https://discord.gg/6uMWAuuV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:agpc.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aryguilherme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div><br>
+
+<div>
+  <a href="https://github.com/arycaramez/WeaponizationSystemReforged">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=WeaponizationSystemReforged&show_owner=false&layout=compact&theme=transparent&locale=pt-BR">
+  </a>
+  <a href="https://github.com/arycaramez/SortingLayerCharacterManagerForUnity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=SortingLayerCharacterManagerForUnity&show_owner=false&layout=compact&theme=transparent&locale=pt-BR">
+  </a>
 </div>
 
 <!--
