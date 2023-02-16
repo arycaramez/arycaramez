@@ -12,7 +12,7 @@
 - Dragon Bones.
 - Photoshop.
 
-> Programing Languages:
+> Linguagens de programação:
 - Java (web/mobile).
 - Python
 - C#
@@ -22,8 +22,3 @@
 > Web Analytcs:
 - Google Tag Manager.
 - Google Analytcs.
-
-<!---
-arycaramez/arycaramez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
