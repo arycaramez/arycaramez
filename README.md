@@ -45,6 +45,9 @@
 </div><br>
 
 <div>
+  <a href="https://github.com/arycaramez/SokobanMrBeaverPreAlpha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=SokobanMrBeaverPreAlpha&show_owner=false&layout=compact&theme=transparent&locale=pt-BR">
+  </a> 
   <a href="https://github.com/arycaramez/WeaponizationSystemReforged">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=WeaponizationSystemReforged&show_owner=false&layout=compact&theme=transparent&locale=pt-BR">
   </a>
@@ -53,7 +56,7 @@
   </a>  
   <a href="https://github.com/arycaramez/UnityBowSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=UnityBowSystem&show_owner=false&layout=compact&theme=transparent&locale=pt-BR">
-  </a>  
+  </a>   
 </div>
 
 <!--
