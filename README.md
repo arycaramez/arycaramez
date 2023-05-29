@@ -8,12 +8,12 @@
 ## Web Analytcs:
 - Google Tag Manager.
 - Google Analytcs.
-
+<!--
 <div>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&theme=transparent&count_private=truee&layout=compact&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arycaramez&e&layout=compact&theme=transparent&locale=pt-BR">
 </div>
-
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ary-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
@@ -35,7 +35,7 @@
 </div>
 
 ##
-
+<!--
 <div> 
   <a href="https://www.youtube.com/@arycaramez" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/arycaramez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -61,7 +61,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arycaramez&repo=UnityBowSystem&show_owner=false&layout=compact&theme=transparent&locale=pt-BR">
   </a>   
 </div>
-
+-->
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycaramez&count_private=true&show_icons=true&theme=tokyonight&bg_color=193549&locale=pt-BR&card_width=500&include_all_commits=true&hide_title=true)](https://github.com/arycaramez?tab=repositories)
 
