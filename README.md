@@ -8,6 +8,8 @@
 ## Web Analytcs:
 - Google Tag Manager.
 - Google Analytcs.
+- Loocker Studio.
+- Google Big Query.
 <!--
 <div>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&theme=transparent&count_private=truee&layout=compact&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
