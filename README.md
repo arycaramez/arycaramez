@@ -10,6 +10,13 @@
 - Google Analytcs.
 - Loocker Studio.
 - Google Big Query.
+
+## Desenvolvimento de Software:
+- Java Script (Node.js)
+- C# (Unity Game Engine)
+- C++ (Unreal Engine 5 - Estudando)
+- Python
+- Dart (Flutter/Firebase)
 <!--
 <div>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&theme=transparent&count_private=truee&layout=compact&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
