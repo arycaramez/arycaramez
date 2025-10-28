@@ -35,7 +35,7 @@
   <img align="center" alt="Ary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">     
   <img align="center" alt="Ary-Python" height="30" width="30" src="https://i.pinimg.com/736x/31/97/6f/31976ff22bb0bd0ce18da966097ac742.jpg">     
-  
+  <img align="center" alt="Ary-Python" height="30" width="30" src="https://i.pinimg.com/736x/31/97/6f/31976ff22bb0bd0ce18da966097ac742.jpg">    
 </div>
 
 ##
