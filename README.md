@@ -11,7 +11,7 @@
 - Loocker Studio.
 - Google Big Query.
 
-## Desenvolvimento de Software:
+## Competencias:
 - Java Script (Node.js)
 - C# (Unity Game Engine)
 - C++ (Unreal Engine 5 - Estudando)
