@@ -11,12 +11,14 @@
 - Loocker Studio.
 - Google Big Query.
 
-## Competencias:
+<!--## Competencias:
 - Java Script (Node.js)
 - C# (Unity Game Engine)
 - C++ (Unreal Engine 5 - Estudando)
+- React
+- React Native
 - Python
-- Dart (Flutter/Firebase)
+- Dart (Flutter/Firebase)-->
 <!--
 <div>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&theme=transparent&count_private=truee&layout=compact&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
@@ -41,8 +43,8 @@
   <img align="center" alt="Ary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">     
-  <img align="center" alt="Ary-Python" height="30" width="30" src="https://i.pinimg.com/736x/31/97/6f/31976ff22bb0bd0ce18da966097ac742.jpg">     
-  <img align="center" alt="Ary-Python" height="30" width="30" src="https://i.pinimg.com/736x/c3/02/36/c30236dd759f7f97d3586477046af7e8.jpg">    
+  <img align="center" alt="Ary-Dart" height="30" width="30" src="https://i.pinimg.com/736x/31/97/6f/31976ff22bb0bd0ce18da966097ac742.jpg">     
+  <img align="center" alt="Ary-Flutter" height="30" width="30" src="https://i.pinimg.com/736x/c3/02/36/c30236dd759f7f97d3586477046af7e8.jpg">    
 </div>
 
 ##
