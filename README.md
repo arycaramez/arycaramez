@@ -10,6 +10,7 @@
 - Google Analytcs.
 - Loocker Studio.
 - Google Big Query.
+- Dart - Flutter.
 <!--
 <div>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=arycaramez&theme=transparent&count_private=truee&layout=compact&show_icons=true&locale=pt-BR&include_all_commits=true&hide_title=true">
@@ -34,6 +35,8 @@
   <img align="center" alt="Ary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+  <img align="center" alt="Ary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg">  
+  <img align="center" alt="Ary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg">
 </div>
 
 ##
